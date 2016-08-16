@@ -1,2 +1,4 @@
 #Ignore storage because it's a temporary folder.
-storage/* 
+storage/logs/*
+storage/framework/sessions/*
+storage/framework/views/*
