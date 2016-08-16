@@ -1,0 +1,2 @@
+#Ignore storage because it's a temporary folder.
+storage/* 
