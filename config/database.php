@@ -60,7 +60,7 @@ return [
             'password'  => env('DB_PASSWORD', 'ameheBazez'),
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
-            'prefix'    => '',
+            'prefix'    => 'engapp_',
             'strict'    => false,
         ],
 

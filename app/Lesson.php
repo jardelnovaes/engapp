@@ -5,7 +5,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Lesson extends Model {
 
-	protected $table = 'engapp_lesson';
+	protected $table = 'lesson';
 	public $timestamps = false;	
 	
 	/**

@@ -5,7 +5,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Word extends Model {
 
-	protected $table = 'engapp_word';
+	protected $table = 'word';
 	public $timestamps = false;	
 	
 	/**

@@ -5,7 +5,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class WordType extends Model {
 
-	protected $table = 'engapp_wordtype';
+	protected $table = 'wordtype';
 	public $timestamps = false;	
 }
 ?>

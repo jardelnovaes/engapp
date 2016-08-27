@@ -5,7 +5,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Book extends Model {
 
-	protected $table = 'engapp_book';
+	protected $table = 'book';
 	public $timestamps = false;
 	//protected $connection = 'connection-name';
 	//protected $fillable = ['name'];
